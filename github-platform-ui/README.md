@@ -7,7 +7,8 @@
 </h1>
 
 This directory contains the link to the repository setup to interact with Zapier via a Platform UI Private App that I developed.
-Thought the link below you will also get:
+
+Through the link below, you will also get:
 1. Instruction on How to use the App
 2. The invite link to use the App
 
