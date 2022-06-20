@@ -1,6 +1,10 @@
 <h1 align="center">
-  <a href="https://zapier.com"><img src="https://raw.githubusercontent.com/zapier/zapier-platform/master/packages/cli/goodies/zapier-logomark.png" alt="Zapier" width="200"></a>
+  <a href="https://zapier.com"><img src="https://raw.githubusercontent.com/zapier/zapier-platform/master/packages/cli/goodies/zapier-logomark.png" alt="Zapier" width="130"></a>
+  <a href="https://zapier.com"><img src="https://github.com/aloysius-riki/zapier-apps/blob/main/resturant-api-platform-ui/Restaurant-Logo-Vector-Design.png" alt="Restaurant API" width="200"></a>
+  
+  
   <br>
+  
   Restaurant API - Platform UI
   <br>
   <br>
