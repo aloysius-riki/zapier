@@ -10,5 +10,5 @@ This directory contains information on the Private Zapier App I developed via Pl
 
 Private apps are integrations that are under active development, or created for private use on Zapier’s developer platform. They are used to connect any API with the 1000's of apps on Zapier.
 
-![]()
+![](https://github.com/aloysius-riki/zapier-apps/blob/main/resturant-api-platform-ui/RestaurantAPI-PlatformUI.png?raw=true)
 [Use Restaurant API - Platform UI on Zapier!](https://zapier.com/developer/public-invite/163657/3b7a825dc0f79b1c42cdee7ccdc8d356/)
