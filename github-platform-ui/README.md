@@ -16,4 +16,4 @@ Private apps are integrations that are under active development, or created for 
 They are used to connect any API with the 1000's of apps on Zapier.
 
 
-[CLick Here to visit the repository Zapier GitHub Platform UI](https://github.com/aloysius-riki/zapier-github-platform-ui)
+[Click Here to visit the repository Zapier GitHub Platform UI](https://github.com/aloysius-riki/zapier-github-platform-ui)
