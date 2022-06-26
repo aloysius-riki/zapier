@@ -8,7 +8,7 @@
 
 
 
-This directory contains the link to the repository with the code used in the [GitHub Issues - Platform CLI Private App](https://github.com/aloysius-riki/zapier-platform-cli-private-app-github-issues)
+This directory contains the link to the repository with the code used in the [GitHub Issues - Platform CLI Private App](https://github.com/aloysius-riki/github-issues-platform-cli-private-app)
 
 
 Through the link below, you will also get:
@@ -19,4 +19,4 @@ Private apps are integrations that are under active development, or created for 
 They are used to connect any API with the 1000's of apps on Zapier.
 
 
-[Click Here to visit the repository GitHub Issues - Platform CLI Private App](https://github.com/aloysius-riki/zapier-platform-cli-private-app-github-issues)
+[Click Here to visit the repository GitHub Issues - Platform CLI Private App](https://github.com/aloysius-riki/github-issues-platform-cli-private-app)
