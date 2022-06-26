@@ -11,4 +11,5 @@ This repository contains private apps that I developed to connect various API's 
 Private apps are integrations that are under active development, or created for private use on Zapier’s developer platform.
 
 1. Restaurant API - Platform UI | This app connects my live Restaurant API to Zapier
-2. GitHub - Platform UI | This Apps connects a issues in a GitHub repository to Zapier
+2. GitHub Issues - Platform UI | This app connects issues in a GitHub repository to Zapier
+3. GitHub Issues - PLatform CLI | This app connects issues in a GitHub repository to Zapier
